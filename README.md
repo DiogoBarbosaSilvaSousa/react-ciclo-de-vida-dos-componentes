@@ -1,4 +1,6 @@
-# Alura - Curso de React: Ciclo de vida dos componentes
+# Alura - Curso de React: Ciclo de vida dos componentes 
+
+### (Com ***'class component'*** abordagem tradicional, mais antiga)
 
 * Aprenda sobre o ciclo de vida dos componentes React
 * Entenda os possíveis problemas de performance da aplicação
