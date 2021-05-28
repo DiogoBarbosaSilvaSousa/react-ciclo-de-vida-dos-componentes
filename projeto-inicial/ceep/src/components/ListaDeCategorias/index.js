@@ -1,2 +1,2 @@
-import ListaDeCategorias from "./ListaDeCategorias.jsx";
+import ListaDeCategorias from "./ListaDeCategorias";
 export default ListaDeCategorias;
